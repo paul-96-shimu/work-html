@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+  --brand-accent: #ff8a34;
+}
+
+html {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+}
+
+/***** Utilities *****/
+.text-balance { text-wrap: balance; }
